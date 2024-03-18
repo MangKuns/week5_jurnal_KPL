@@ -1,0 +1,15 @@
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.GeneratedMSBuildEditorConfig.editorconfig
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.AssemblyInfoInputs.cache
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.AssemblyInfo.cs
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.csproj.CoreCompileInputs.cache
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.sourcelink.json
+D:\week5_Jurnal\week5_Jurnal\bin\Debug\net8.0\week5_Jurnal.exe
+D:\week5_Jurnal\week5_Jurnal\bin\Debug\net8.0\week5_Jurnal.deps.json
+D:\week5_Jurnal\week5_Jurnal\bin\Debug\net8.0\week5_Jurnal.runtimeconfig.json
+D:\week5_Jurnal\week5_Jurnal\bin\Debug\net8.0\week5_Jurnal.dll
+D:\week5_Jurnal\week5_Jurnal\bin\Debug\net8.0\week5_Jurnal.pdb
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.dll
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\refint\week5_Jurnal.dll
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.pdb
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\week5_Jurnal.genruntimeconfig.cache
+D:\week5_Jurnal\week5_Jurnal\obj\Debug\net8.0\ref\week5_Jurnal.dll
